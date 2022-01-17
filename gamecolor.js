@@ -110,7 +110,7 @@
     for (let i=0 ; i<num ; i++){
     arr.push(makeColor())
 }
-    return arr
+    return (arr)
 }
 
     function makeColor(){
